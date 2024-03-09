@@ -13,9 +13,10 @@ Use the following command in the terminal 'pip install plyer' and you're good to
 # Cloning this Repo
  1) Open the terminal and enter the following commands:
     git clone https://github.com/nathamayil/drink-water-reminder.git
+    
     cd drink-water-reminder
 
-2) Run the file like how you'd normally run a python file (I used Jupyter Notebook)
+3) Run the file like how you'd normally run a python file (I used Jupyter Notebook)
     python main.py
 
 # How to disable the Notif?
